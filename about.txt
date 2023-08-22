@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif Khojki
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)
+- Font Source: http://fonts.gstatic.com/s/notoserifkhojki/v8/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvyZ0Qtc5HAQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
