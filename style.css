@@ -434,7 +434,7 @@
   
   .header-main {
     padding: 20px 0;
-    border-bottom: 1px solid var(--cultured);
+   border-bottom: 1px solid hsl(0deg 86.96% 49.28%);
   }
   
   .header-logo { margin-bottom: 20px; }
